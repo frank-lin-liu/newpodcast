@@ -4,6 +4,7 @@ import random
 
 def main():
     print('This is a github test')
+    print('this is a new line for testing github')
     show_header()
 
     service.download_info()
